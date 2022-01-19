@@ -2,4 +2,32 @@
     background: darkorange;
     height: 200px;
     width: 200px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid dimgrey;
 }
+.inject {
+    border-radius: 5px
+}
+.shed1 {
+    box-shadow: #111111 15px 15px;
+}
+
+.shed2 {
+    box-shadow: #111111 15px 15px 5px;
+}
+.shed3 {
+    box-shadow: #111111 19px 19px 5px;
+}
+.shed4 {
+    box-shadow: #aca9a9 19px 19px 5px;
+}
+.shed5 {
+    box-shadow: #111111 15px 15px 5px;
+}
+.shed6 {
+    box-shadow: #aca9a9 15px 15px 5px;
+}
+
